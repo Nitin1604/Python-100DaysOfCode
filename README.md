@@ -18,3 +18,6 @@ ___________________________________________________________________________
 Day 50 which is read(), readlines() and other methods | Python Tutorial - Day #50 on YouTube 
 ___________________________________________________________________________
 I have created a file of Day 50 on my replit with this link : https://replit.com/@Nitin645Sokhal/Day50read-readlines-and-other-methods#main.py
+___________________________________________________________________________
+I have created a file of Day 51 on my replit with this link: https://replit.com/@Nitin645Sokhal/Day51seek-and-tell#main.py
+
