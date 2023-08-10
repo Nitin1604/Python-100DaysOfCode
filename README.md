@@ -13,7 +13,7 @@ I have created a file of Day 49 on my replit with this link : https://replit.com
 The reason for creating a file for Day 49 on replit is that i am not able to see the output in the console of the python interpreter
 even i have inserted the file name correctly in the IDE ==> Visual Studio Code 
 ___________________________________________________________________________
-By clicking on this replit link (https://replit.com/@Nitin645Sokhal/Day49FileIo#main.py) i can redirect to that replit link with file named as File IO
+By clicking on this replit link (https://replit.com/@Nitin645Sokhal/Day49FileIo#main.py) i will redirect to that replit link with file named as File IO
 ___________________________________________________________________________
 Day 50 which is read(), readlines() and other methods | Python Tutorial - Day #50 on YouTube 
 ___________________________________________________________________________
