@@ -21,3 +21,12 @@ I have created a file of Day 50 on my replit with this link : https://replit.com
 ___________________________________________________________________________
 I have created a file of Day 51 on my replit with this link: https://replit.com/@Nitin645Sokhal/Day51seek-and-tell#main.py
 
+**These are missing files on github:-**
+(1) Day 2 --> Some Amazing Python Programs - The Power of Python
+(2) Day 7 --> Exercise 1: Calculator using Python
+(3) Day 15 --> Exercise 2: Good Morning Sir 
+(4) Day 27 --> Exercise 3: Kaun Banega Crorepati (KBC)
+(5) Day 40 --> Exercise 4: Secret Code Language 
+(6) Day 47 --> Exercise 4: Solutions and Shoutouts 
+(7) Day 55 --> Exercise 5: Snake Water Gun 
+(8) Day 64 --> Exercise 6: Library Management System in Python
