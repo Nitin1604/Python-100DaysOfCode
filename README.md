@@ -51,3 +51,6 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 Exercise 8 - Merge the Pdf Solution in Python | Python Tutorial - Day #82
 YouTube Link : (https://youtu.be/qKKGemhBRVM)
+___________________________________________________________________________
+Creating command line utility in python | Python Tutorial - Day #85
+YouTube Link : (https://youtu.be/3IAu6-pgw7I)
