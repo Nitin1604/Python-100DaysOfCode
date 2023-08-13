@@ -9,7 +9,7 @@ https://youtu.be/dkVYSsL90Oo
 ___________________________________________________________________________
 Day 49 which is File IO in Python | Python Tutorial - Day #49 on YouTube 
 ___________________________________________________________________________
-I have created a file of Day 49 on my replit with this link : https://replit.com/@Nitin645Sokhal/Day49FileIo#main.py
+I have created a file of Day 49 on my replit with this link : (https://replit.com/@Nitin645Sokhal/Day49FileIo#main.py)
 
 The reason for creating a file for Day 49 on replit is that i am not able to see the output in the console of the python interpreter
 even i have inserted the file name correctly in the IDE ==> Visual Studio Code 
