@@ -24,7 +24,9 @@ I have created a file of Day 50 on my replit with this link : (https://replit.co
 ___________________________________________________________________________
 I have created a file of Day 51 on my replit with this link: (https://replit.com/@Nitin645Sokhal/Day51seek-and-tell#main.py)
 _______________________________________________________________________________________________________________________________________
-I have created a file of Day 88 on my replit with this link: (https://replit.com/@Nitin645Sokhal/88-Day-88-Exercise-9-Solution#main.py)
+I have created a file of Day 88 on my replit with this link: (https://replit.com/@Nitin645Sokhal/88-Day-88-Exercise-9-Solution#main.py) 
+In this replit link python interpreter will pronounce all the names in Operating System Mac Book Pro
+For windows i have inserted the code in the github repository with file name as : (Day88_exercise9Soln.py)
 _______________________________________________________________________________________________________________________________________
 **These are missing files on github:-**
 ___________________________________________________________________________
